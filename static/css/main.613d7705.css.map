@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.613d7705.css","mappings":"AAAA,KACE,aAAc,CACd,cAAe,CACf,WACF,CCJA,KACE,iBAEF","sources":["index.css","App.css"],"sourcesContent":["body {\n  margin: 0 auto;\n  padding: 0 auto;\n  width: 40rem;\n}\n\n\n",".App {\n  text-align: center;\n  \n}\n\n\n"],"names":[],"sourceRoot":""}
